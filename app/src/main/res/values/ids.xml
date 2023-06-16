@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonOne" type="id" />
+    <item name="buttonTwo" type="id" />
+    <item name="buttonThree" type="id" />
+    <item name="buttonSix" type="id" />
+</resources>
